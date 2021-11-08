@@ -6,7 +6,7 @@
 
 - Aplicação desenvolvida no bootcamp da DIO.
 - Advices gera uma frase aleatória, seja de um filme, série ou desenho, o anfitrião da aplicação é o ilustre "Ò vô me tornar Hokage (Naruto)". 
-- A frase é obtida através da API (Adivceslip)[https://api.adviceslip.com/].
+- A frase é obtida através da API ("https://api.adviceslip.com/")[Adivceslip ].
 
 ### Tecnologias usadas:
 
