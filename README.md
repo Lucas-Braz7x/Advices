@@ -20,6 +20,5 @@
   - Instale os módulos `npm install`
   - Rode o comando inicial `npm run dev`
 
-### link da aplicação:
+### [link da aplicação](https://advices-naturo.netlify.app/)
   
-  -
