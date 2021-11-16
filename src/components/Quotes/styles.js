@@ -12,6 +12,13 @@ export const Quote = styled.p`
   font-size: 2em;
   margin: 0;
   animation: ${renderAnimation} 2s ease;
+
+  @media(max-width: 1015px) {
+   font-size: 1.5em;
+  }
+  @media(max-width: 1015px) {
+   font-size: 1.2em;
+  }
 `;
 
 export const Speaker = styled(Quote)`

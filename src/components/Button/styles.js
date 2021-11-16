@@ -23,4 +23,11 @@ export const Buttons = styled.button`
     filter: brightness(.8);
     transform: scale(.9);
   }
+  
+  @media(max-width: 1015px) {
+   font-size: 1.2em;
+  }
+  @media(max-width: 370px) {
+   font-size: 1em;
+  }
 `;

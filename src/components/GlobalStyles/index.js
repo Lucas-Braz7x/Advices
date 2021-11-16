@@ -12,6 +12,7 @@ export const GlobalStyles = createGlobalStyle`
     font-family: 'New Tegomin', serif;
     background: url(${bgImg}) no-repeat center;
     background-size: cover; 
+    overflow-y: hidden;
   }
 
 `
